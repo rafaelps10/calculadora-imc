@@ -1,4 +1,4 @@
-const fahrenheit = 73;
+const fahrenheit = 75;
 
 const celsius = ((fahrenheit - 32) * 5 / 9).toFixed(2);
 
