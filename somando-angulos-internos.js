@@ -1,4 +1,4 @@
-const ladoPoligno = 6;  // Hexágono
+const ladoPoligono = 6;  // Hexágono
 const somaAnguloInterno = (ladoPoligno - 2) * 180;
 
 console.log(`A soma dos ângulos internos é ${somaAnguloInterno}°`);
